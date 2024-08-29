@@ -5,13 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b21f391-cf4c-4ffa-8d23-3d0b2564c694" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/route.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/hello/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/database/server.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/route.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/lib/data.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,8 +44,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "dev",
-    "last_opened_file_path": "C:/Users/dlthr/github/budget-central",
+    "git-widget-placeholder": "feature/setup-postgres-test-connection",
+    "last_opened_file_path": "C:/Users/dlthr/github/minecraft-locations",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -42,6 +55,15 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dlthr\github\budget-central\src\app\api\hello" />
+      <recent name="C:\Users\dlthr\github\budget-central\pages" />
+      <recent name="C:\Users\dlthr\github\budget-central\public" />
+      <recent name="C:\Users\dlthr\github\budget-central\src\app\api" />
+      <recent name="C:\Users\dlthr\github\budget-central\src\app\database" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -58,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1724526959088</updated>
       <workItem from="1724526960157" duration="389000" />
-      <workItem from="1724727779494" duration="787000" />
+      <workItem from="1724727779494" duration="6771000" />
     </task>
     <servers />
   </component>
